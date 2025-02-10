@@ -19,6 +19,7 @@ class Que:
 
     def is_empty(self):
         return self.__size == 0
+        print("bye")
 
 
     def pop(self):
